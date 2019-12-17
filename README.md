@@ -1,2 +1,1 @@
-# retrofit_flutter
-Retrieve Data with help of Retrofit in Flutter Application
+Use the Latest Version of retrofit and json_annotation package dependencies and in dev-dependencies retrofit_generator, build_runner.
